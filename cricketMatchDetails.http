@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+// API 6
+
+GET https://yogichaitanyapncjfnjscpscvyl.drops.nxtwave.tech:3000/matches/:matchId/players
+
+
+
+// API 7
+
+GET https://yogichaitanyapncjfnjscpscvyl.drops.nxtwave.tech:3000/players/:playerId/playerScores
